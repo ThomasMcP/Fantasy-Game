@@ -84,7 +84,7 @@ public abstract class Character {
         this.currentRoom = newRoom;
     }
 
-    public abstract String takeDamage();
+    public abstract String takeDamage(int damage);
 
     public abstract String simpleAttack(Character enemy);
 

@@ -1,7 +1,8 @@
 package characterstats;
 
-public enum WizardType {
+public enum SpellType {
     FIRE,
     WATER,
     LIGHT;
+
 }
